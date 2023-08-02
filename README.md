@@ -71,35 +71,15 @@
 |and much much more!|
 
 # Throughout this 100 DAYS, we cover a massive amount of tools and technologies, including:
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-
-  th, td {
-    text-align: left;
-    padding: 8px;
-  }
-
-  tr:nth-child(even) {background-color: #f2f2f2;}
-
-  th {
-    background-color: #4CAF50;
-    color: white;
-  }
-
-  td:hover {
-    background-color: yellow;
-    transition: all .5s ease-in-out;
-  }
-</style>
-
-<table>
+<table class="table table-hover">
+  <thead>
   <tr>
     <th> Contents</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <td>|Python 3 - the latest version of Python|</td>
   </tr>
@@ -205,13 +185,22 @@
    <tr>
     <td>|and much much more!|</td>
   </tr>
+  </tbody>
 </table>
 
 # By the end of this 100 DAYS, you will be fluently programming in Python and you'll be so good at Python that you can get a job or use the language professionally.
 
 # You'll also build a portfolio of 100 projects that you can show off to any potential employer. Including:
 
-<table>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<table class="table table-hover">
+  <thead>
+  <tr>
+    <th> Contents</th>
+  </tr>
+  </thead>
+  <tbody>
   <tr>
     <th> Contents</th>
   </tr>
@@ -251,4 +240,5 @@
     <tr>
     <td>|and much much more!|</td>
   </tr>
+  </tbody>
 </table>
