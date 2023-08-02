@@ -15,7 +15,7 @@
 
 # Throughout this 100 DAYS, we cover a massive amount of tools and technologies, including:
 
-| Contents      |
+|--Contents--|
 |Python 3 - the latest version of Python|
 |PyCharm, Jupyter Notebook, Google Colab|
 |Python Scripting and Automation|
@@ -69,3 +69,116 @@
 |Analysing Lego Datasets|
 |Google App Store Analysis|
 |and much much more!|
+
+# Throughout this 100 DAYS, we cover a massive amount of tools and technologies, including:
+
+<table>
+  <tr>
+    <th> Contents</th>
+  </tr>
+  <tr>
+    <td>|Python 3 - the latest version of Python|</td>
+  </tr>
+  <tr>
+    <td>|PyCharm, Jupyter Notebook, Google Colab|</td>
+  </tr>
+    <tr>
+    <td>|Python Scripting and Automation|</td>
+  </tr>
+    <tr>
+    <td>|Python Game Development|</td>
+  </tr>
+    <tr>
+    <td>|Web Scraping|</td>
+  </tr>
+    <tr>
+    <td>|Beautiful Soup|</td>
+  </tr>
+    <tr>
+    <td>|Selenium Web Driver|</td>
+  </tr>
+    <tr>
+    <td>|Request|</td>
+  </tr>
+    <tr>
+    <td>|WTForms|</td>
+  </tr>
+    <tr>
+    <td>|Data Science|</td>
+  </tr>
+    <tr>
+    <td>|Pandas|</td>
+  </tr> 
+   <tr>
+    <td>|NumPy|</td>
+  </tr> 
+   <tr>
+    <td>|Matplotlib|</td>
+  </tr> 
+   <tr>
+    <td>|Plotly|</td>
+  </tr> 
+   <tr>
+    <td>|Scikit learn|</td>
+  </tr> 
+   <tr>
+    <td>|Seaborn|</td>
+  </tr> 
+   <tr>
+    <td>|Turtle|</td>
+  </tr> 
+   <tr>
+    <td>|Python GUI Desktop App Development|</td>
+  </tr> 
+   <tr>
+    <td>|Tkinter|</td>
+  </tr> 
+   <tr>
+    <td>|Front-End Web Development|</td>
+  </tr> 
+   <tr>
+    <td>|HTML 5|</td>
+  </tr> 
+   <tr>
+    <td>|CSS 3|</td>
+  </tr> 
+   <tr>
+    <td>|Bootstrap 4|</td>
+  </tr>
+   <tr>
+    <td>|Bash Command Line|</td>
+  </tr> 
+   <tr>
+    <td>|Git, GitHub and Version Control|</td>
+  </tr> 
+   <tr>
+    <td>|Backend Web Development|</td>
+  </tr> 
+   <tr>
+    <td>|Flask|</td>
+  </tr> 
+   <tr>
+    <td>|APIs|</td>
+  </tr> 
+   <tr>
+    <td>|SQL|</td>
+  </tr> 
+   <tr>
+    <td>|SQLite|</td>
+  </tr> 
+   <tr>
+    <td>|PostgreSQL|</td>
+  </tr> 
+   <tr>
+    <td>|Authentication|</td>
+  </tr>
+   <tr>
+    <td>|Web Design|</td>
+  </tr> 
+   <tr>
+    <td>|Deployment with GitHub Pages, Heroku and GUnicorn|</td>
+  </tr> 
+   <tr>
+    <td>|and much much more!|</td>
+  </tr>
+</table>
