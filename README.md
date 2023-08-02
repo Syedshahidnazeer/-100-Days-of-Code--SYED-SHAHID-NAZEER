@@ -2,10 +2,16 @@
   100 Days of Code: The Complete Python Pro Bootcamp for 2023 By Angela Yu
 
 # WITH SYED SHAHID NAZEER
+
 <p align="center">
   <img src="https://github.com/Syedshahidnazeer/-100-Days-of-Code--SYED-SHAHID-NAZEER/blob/main/README_Title.png">
 </p>
 
+# JOIN ME IN THIS JOURNEY BY SIGNING THIS PLEDGE
+
+<p align="center">
+  <img src="https://github.com/Syedshahidnazeer/-100-Days-of-Code--SYED-SHAHID-NAZEER/blob/main/README_Pledge.jpg">
+</p>
 
 # Throughout this 100 DAYS, we cover a massive amount of tools and technologies, including:
 
@@ -83,7 +89,7 @@ Deployment with GitHub Pages, Heroku and GUnicorn
 
 and much much more!
 
-By the end of this course, you will be fluently programming in Python and you'll be so good at Python that you can get a job or use the language professionally.
+By the end of this 100 DAYS, you will be fluently programming in Python and you'll be so good at Python that you can get a job or use the language professionally.
 
 You'll also build a portfolio of 100 projects that you can show off to any potential employer. Including:
 
