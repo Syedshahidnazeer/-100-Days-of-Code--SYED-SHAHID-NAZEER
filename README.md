@@ -202,9 +202,6 @@
   </thead>
   <tbody>
   <tr>
-    <th> Contents</th>
-  </tr>
-  <tr>
     <td>|Blackjack|</td>
   </tr>
   <tr>
