@@ -72,6 +72,30 @@
 
 # Throughout this 100 DAYS, we cover a massive amount of tools and technologies, including:
 
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {background-color: #f2f2f2;}
+
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  td:hover {
+    background-color: yellow;
+    transition: all .5s ease-in-out;
+  }
+</style>
+
 <table>
   <tr>
     <th> Contents</th>
@@ -179,6 +203,52 @@
     <td>|Deployment with GitHub Pages, Heroku and GUnicorn|</td>
   </tr> 
    <tr>
+    <td>|and much much more!|</td>
+  </tr>
+</table>
+
+# By the end of this 100 DAYS, you will be fluently programming in Python and you'll be so good at Python that you can get a job or use the language professionally.
+
+# You'll also build a portfolio of 100 projects that you can show off to any potential employer. Including:
+
+<table>
+  <tr>
+    <th> Contents</th>
+  </tr>
+  <tr>
+    <td>|Blackjack|</td>
+  </tr>
+  <tr>
+    <td>|Snake Game|</td>
+  </tr>
+    <tr>
+    <td>|Pong Game|</td>
+  </tr>
+    <tr>
+    <td>|Auto Swipe on Tinder|</td>
+  </tr>
+    <tr>
+    <td>|Auto Job Applications on LinkedIn|</td>
+  </tr>
+    <tr>
+    <td>|Automate Birthday Emails/SMS|</td>
+  </tr>
+    <tr>
+    <td>|Fully Fledged Blog Website|</td>
+  </tr>
+    <tr>
+    <td>|Build Your Own Public API|</td>
+  </tr>
+    <tr>
+    <td>|Data Science with Google Trends|</td>
+  </tr>
+    <tr>
+    <td>|Analysing Lego Datasets|</td>
+  </tr>
+    <tr>
+    <td>|Google App Store Analysis|</td>
+  </tr>
+    <tr>
     <td>|and much much more!|</td>
   </tr>
 </table>
